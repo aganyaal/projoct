@@ -1,0 +1,12 @@
+.head{
+  background-image: url(../images/backgrounds/landing.jpg);
+}
+.top{
+  margin:  auto;
+  text-align: center;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;  
+}
